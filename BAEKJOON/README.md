@@ -2,7 +2,7 @@
 
 **난이도 - 문제번호(문제명) - 문제 사이트 - 솔루션페이지 순서로 작성되었습니다.**
 
-<img src="https://img.shields.io/badge/-Silver-lightgrey"><img src="https://img.shields.io/badge/25 Solution-FFFFFF">
+<img src="https://img.shields.io/badge/-Silver-lightgrey"><img src="https://img.shields.io/badge/26 Solution-FFFFFF">
 
 > - <img src="https://static.solved.ac/tier_small/7.svg" width=15px> <img src="https://img.shields.io/badge/Silver 4-lightgrey"><img src="https://img.shields.io/badge/1002(터렛) -FFFFFF">[Problem](https://www.acmicpc.net/problem/1002) [Solution](https://github.com/Jagwa7312/BAEKJOON/tree/%EB%B0%B1%EC%A4%80/Silver/1002_%ED%84%B0%EB%A0%9B)
 > - <img src="https://static.solved.ac/tier_small/6.svg" width=15px> <img src="https://img.shields.io/badge/Silver 5-lightgrey"><img src="https://img.shields.io/badge/1018(체스판 다시 칠하기) -FFFFFF">[Problem](https://www.acmicpc.net/problem/1018) [Solution](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/1018_%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0(%EC%88%98%EC%A0%95%20%EC%A0%84)) (리드미 수정 전)
