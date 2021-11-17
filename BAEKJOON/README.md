@@ -2,7 +2,7 @@
 
 **난이도 - 문제번호(문제명) - 문제 사이트 - 솔루션페이지 순서로 작성되었습니다.**
 
-<img src="https://img.shields.io/badge/-Silver-lightgrey"><img src="https://img.shields.io/badge/28 Solution-FFFFFF">
+<img src="https://img.shields.io/badge/-Silver-lightgrey"><img src="https://img.shields.io/badge/30 Solution-FFFFFF">
 
 > - <img src="https://static.solved.ac/tier_small/7.svg" width=15px> <img src="https://img.shields.io/badge/Silver 4-lightgrey"><img src="https://img.shields.io/badge/1002(터렛) -FFFFFF">[Problem](https://www.acmicpc.net/problem/1002) [Solution](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/1002_%ED%84%B0%EB%A0%9B)
 > - <img src="https://static.solved.ac/tier_small/6.svg" width=15px> <img src="https://img.shields.io/badge/Silver 5-lightgrey"><img src="https://img.shields.io/badge/1018(체스판 다시 칠하기) -FFFFFF">[Problem](https://www.acmicpc.net/problem/1018) [Solution](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/1018_%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0(%EC%88%98%EC%A0%95%20%EC%A0%84)) (리드미 수정 전)
@@ -31,6 +31,7 @@
 > - <img src="https://static.solved.ac/tier_small/7.svg" width=15px> <img src="https://img.shields.io/badge/Silver 4-lightgrey"><img src="https://img.shields.io/badge/10773(제로) -FFFFFF">[Problem](https://www.acmicpc.net/problem/10773) [Solution](https://github.com/Jagwa7312/BAEKJOON/tree/%EB%B0%B1%EC%A4%80/Silver/10773_%EC%A0%9C%EB%A1%9C)
 > - <img src="https://static.solved.ac/tier_small/6.svg" width=15px> <img src="https://img.shields.io/badge/Silver 5-lightgrey"><img src="https://img.shields.io/badge/10814(나이순 정렬) -FFFFFF">[Problem](https://www.acmicpc.net/problem/10814) [Solution](https://github.com/Jagwa7312/BAEKJOON/tree/%EB%B0%B1%EC%A4%80/Silver/10814_%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC)
 > - <img src="https://static.solved.ac/tier_small/6.svg" width=15px> <img src="https://img.shields.io/badge/Silver 5-lightgrey"><img src="https://img.shields.io/badge/11650(좌표 정렬하기) -FFFFFF">[Problem](https://www.acmicpc.net/problem/11650) [Solution](https://github.com/Jagwa7312/BAEKJOON/tree/%EB%B0%B1%EC%A4%80/Silver/11650_%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+> - <img src="https://static.solved.ac/tier_small/6.svg" width=15px> <img src="https://img.shields.io/badge/Silver 5-lightgrey"><img src="https://img.shields.io/badge/11651(좌표 정렬하기 2) -FFFFFF">[Problem](https://www.acmicpc.net/problem/11651) [Solution](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/11651_%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202)
 > - <img src="https://static.solved.ac/tier_small/7.svg" width=15px> <img src="https://img.shields.io/badge/Silver 4-lightgrey"><img src="https://img.shields.io/badge/11653(소인수분해) -FFFFFF">[Problem](https://www.acmicpc.net/problem/11653) [Solution](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/11653_%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
 > - <img src="https://static.solved.ac/tier_small/7.svg" width=15px> <img src="https://img.shields.io/badge/Silver 4-lightgrey"><img src="https://img.shields.io/badge/15970(화살표 그리기) -FFFFFF">[Problem](https://www.acmicpc.net/problem/15970) [Solution](https://github.com/Jagwa7312/BAEKJOON/tree/%EB%B0%B1%EC%A4%80/Silver/15970_%ED%99%94%EC%82%B4%ED%91%9C%20%EA%B7%B8%EB%A6%AC%EA%B8%B0)
 
