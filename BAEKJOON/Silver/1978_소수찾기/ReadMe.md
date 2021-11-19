@@ -1,4 +1,4 @@
-# Q 1978 (소수찾기)
+# [Q 1978 (소수찾기)](https://www.acmicpc.net/problem/1978)
 
 <img src="https://img.shields.io/badge/Level-Silver 4-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-231%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
