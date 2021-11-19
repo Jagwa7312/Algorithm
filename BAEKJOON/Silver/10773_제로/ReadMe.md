@@ -1,4 +1,4 @@
-# Q 10773 (제로)
+# [Q 10773 (제로)](https://www.acmicpc.net/problem/10773)
 
 <img src="https://img.shields.io/badge/Level-Silver 4-lightgrey"> <img src="https://img.shields.io/badge/Memory-1384%20KB-blue"> <img src="https://img.shields.io/badge/Time-12%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-307%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
