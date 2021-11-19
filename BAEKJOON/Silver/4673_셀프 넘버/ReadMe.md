@@ -1,4 +1,4 @@
-# Q 4673 (셀프 넘버)
+# [Q 4673 (셀프 넘버)](https://www.acmicpc.net/problem/4673)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-388%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
