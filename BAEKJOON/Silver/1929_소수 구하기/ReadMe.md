@@ -1,4 +1,4 @@
-# Q 1929 (소수 구하기)
+# [Q 1929 (소수 구하기)](https://www.acmicpc.net/problem/1929)
 
 <img src="https://img.shields.io/badge/Level-Silver 2-lightgrey"> <img src="https://img.shields.io/badge/Memory-5016%20KB-blue"> <img src="https://img.shields.io/badge/Time-20%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-456%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
