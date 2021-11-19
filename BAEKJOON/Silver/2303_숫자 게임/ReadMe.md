@@ -1,4 +1,4 @@
-# Q 2303 (숫자 게임)
+# [Q 2303 (숫자 게임)](https://www.acmicpc.net/problem/2303)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1116%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-681%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
