@@ -1,4 +1,4 @@
-# Q 2422 (한윤정이 이탈리아에 가서 아이스크림을 사먹는데)
+# [Q 2422 (한윤정이 이탈리아에 가서 아이스크림을 사먹는데)](https://www.acmicpc.net/problem/2422)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1156%20KB-blue"> <img src="https://img.shields.io/badge/Time-4%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-456%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
