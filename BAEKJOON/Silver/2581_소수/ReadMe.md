@@ -1,4 +1,4 @@
-# Q 2581 (소수)
+# [Q 2581 (소수)](https://www.acmicpc.net/problem/2581)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-16%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-337%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
