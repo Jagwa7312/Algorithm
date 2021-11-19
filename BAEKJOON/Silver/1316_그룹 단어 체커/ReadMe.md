@@ -1,4 +1,4 @@
-# Q 1316 (그룹 단어 체커)
+# [Q 1316 (그룹 단어 체커)](https://www.acmicpc.net/problem/1316)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-373%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
