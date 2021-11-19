@@ -1,4 +1,4 @@
-# Q 1436 (영화감독 숌)
+# [Q 1436 (영화감독 숌)](https://www.acmicpc.net/problem/1436)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-28%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-265%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
