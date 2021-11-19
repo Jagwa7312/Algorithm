@@ -1,4 +1,4 @@
-# Q 1051 (숫자 정사각형)
+# [Q 1051 (숫자 정사각형)](https://www.acmicpc.net/problem/1051)
 
 <img src="https://img.shields.io/badge/Level-Silver 3-lightgrey"> <img src="https://img.shields.io/badge/Memory-1116%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-446%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
