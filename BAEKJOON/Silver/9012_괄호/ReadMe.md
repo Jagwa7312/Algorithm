@@ -1,4 +1,4 @@
-# Q 9012 (괄호)
+# [Q 9012 (괄호)](https://www.acmicpc.net/problem/9012)
 
 <img src="https://img.shields.io/badge/Level-Silver 4-lightgrey"> <img src="https://img.shields.io/badge/Memory-1116%20KB-blue"> <img src="https://img.shields.io/badge/Time-28%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-581%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
