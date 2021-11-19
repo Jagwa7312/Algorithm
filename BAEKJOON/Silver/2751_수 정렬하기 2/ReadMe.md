@@ -1,4 +1,4 @@
-# Q 2751 (수 정렬하기 2)
+# [Q 2751 (수 정렬하기 2)](https://www.acmicpc.net/problem/2751)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-8928%20KB-blue"> <img src="https://img.shields.io/badge/Time-460%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-395%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
