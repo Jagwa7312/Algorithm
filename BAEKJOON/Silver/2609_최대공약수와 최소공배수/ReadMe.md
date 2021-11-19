@@ -1,4 +1,4 @@
-# Q 2609 (최대공약수와 최소공배수)
+# [Q 2609 (최대공약수와 최소공배수)](https://www.acmicpc.net/problem/2609)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-248%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
