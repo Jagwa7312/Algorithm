@@ -1,6 +1,6 @@
 
 
-# Q 1002 (터렛)
+# [Q 1002 (터렛)](https://www.acmicpc.net/problem/1002)
 
 <img src="https://img.shields.io/badge/Level-Silver 5-lightgrey"> <img src="https://img.shields.io/badge/Memory-1128%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-485%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
@@ -35,7 +35,7 @@
 >   ```c
 >   dis = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));	//(x1, y1)과 (x2, y2)의 거리
 >   sub = r1 > r2 ? r1 - r2 : r2 - r1;	// 두 반지름의 차
->       
+>         
 >   if (dis == 0 && r1 == r2) flag = -1;	//교점이 무한대일 경우
 >   else if (r1 + r2 > dis && sub < dis) flag = 2;	//교점이 두 개일 경우
 >   else if (r1 + r2 == dis || sub == dis) flag = 1;	//교점이 한 개일 경우
