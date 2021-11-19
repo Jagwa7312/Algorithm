@@ -1,4 +1,4 @@
-# Q 4948 (베르트랑 공준)
+# [Q 4948 (베르트랑 공준)](https://www.acmicpc.net/problem/4948)
 
 <img src="https://img.shields.io/badge/Level-Silver 2-lightgrey"> <img src="https://img.shields.io/badge/Memory-2076%20KB-blue"> <img src="https://img.shields.io/badge/Time-388%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-486%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
