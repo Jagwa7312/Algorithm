@@ -1,4 +1,4 @@
-# Q 2331 (반복수열)
+# [Q 2331 (반복수열)](https://www.acmicpc.net/problem/2331)
 
 <img src="https://img.shields.io/badge/Level-Silver 4-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-542%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
