@@ -1,5 +1,7 @@
 # BAEKJOON Algorithm Solution
 
+**[Baekjoon Online Judge](https://www.acmicpc.net/) 알고리즘 문제의 솔루션입니다.**
+
 **실버부터 난이도별로 정리되어 있습니다. (실버 문제는 골드 3 달성 시 업로드 중지)**
 
 ---
