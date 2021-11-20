@@ -1,4 +1,4 @@
-# Q 1676 (팩토리얼 0의 개수)
+# [Q 1676 (팩토리얼 0의 개수)](https://www.acmicpc.net/problem/1676)
 
 <img src="https://img.shields.io/badge/Level-Silver 4-lightgrey"> <img src="https://img.shields.io/badge/Memory-1112%20KB-blue"> <img src="https://img.shields.io/badge/Time-0%20ms-brightgreen"> <img src="https://img.shields.io/badge/Length-114%20B-red"> <img src="https://img.shields.io/badge/Language-C-blueviolet">
 
