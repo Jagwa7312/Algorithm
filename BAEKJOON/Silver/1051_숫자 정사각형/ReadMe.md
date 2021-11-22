@@ -38,7 +38,7 @@
 >
 >   여기서 두 반복문의 범위에서 i만큼을 빼 준 이유는 정사각형임을 확인할 때 배열의 인덱스에 정사각형의 변의 길이만큼 더해서 확인해야 한다. 하지만 더하는 정사각형 변의 길이보다 남은 인덱스의 크기가 더 다면 배열의 범위를 넘어서기 때문에 정사각형의 변의 길이만큼을 각 직사각형의 변의 길이에서 뺀 범위만큼 반복한다.
 >
->   <img src="https://raw.githubusercontent.com/Jagwa7312/Images/main/1051_quadpicture.png?token=AWMB64USHEPMEVOVVD5OBD3BSJ6IE" style="zoom: 80%;" />
+>   ![1051_quadpicture](https://user-images.githubusercontent.com/93855602/142832793-f442aa8e-c61f-45c8-95ee-4c1e461909b4.png)
 >
 >   
 >
