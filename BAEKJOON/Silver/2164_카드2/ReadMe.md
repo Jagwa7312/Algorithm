@@ -32,7 +32,7 @@
 >
 > - 이 과정을 그림으로 나타내면 다음과 같다.(반복문을 한 번씩 돌았을 때의 결과값이다.)
 >
->   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/2164_circularqueue.png?token=AWMB64QIPWO5OZICN6MBJLLBTJFGQ)
+>   ![2164_circularqueue](https://user-images.githubusercontent.com/93855602/142833086-9519dd30-aee5-40a9-b208-e22d9db88636.png)
 >
 > - 마지막 수가 하나 남았을 때(front = rear), 해당 값을 출력한다.
 
