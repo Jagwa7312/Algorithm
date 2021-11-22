@@ -52,7 +52,7 @@
 >
 > - 위의 설명을 예시를 통해서 보자.
 >
->   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp1.png?token=AWMB64XPYPQBITLDNBFDPFDBTNKTM)
+>   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp1.png?token=AWMB64WIN5UW4WFFLOKLOY3BTNMGS)
 >
 >   이 과정은 현재까지 **push를 4번** 했을 때의 상황이다. 다른 변수들은 인덱스이므로 0부터 시작하지만 Num_seq는 1부터 시작하기 때문에 현재 5이다. 여기서 다음 번 반복은 <u>arr과 stack에서의 가르키는 값이 동일하기 때문에 else if문이 시행</u>된다.
 >
