@@ -10,7 +10,7 @@
 >   int stack[100001] = { 0 };	// 만들어진 배열을 넣을 스택
 >   int arr[100001];	// 만들 수열을 넣을 배열
 >   char str[200001];	// +와 -를 넣어 출력할 배열
->   
+>
 >   int num_seq = 1, idx_arr = 0, idx_str = 0;
 >   // 1부터 N까지의 수, 만들 수열이 저장된 배열의 인덱스, +와 -를 저장할 배열의 인덱스
 >   int plus_cnt = 0, minus_cnt = 0;
@@ -46,9 +46,24 @@
 >
 > - 반복문은 **minus_cnt가 n보다 작을 때까지 반복**한다. 왜냐하면 pop이 시행될 때 즉, <u>스택에서 수를 뺄 때 minus_cnt가 하나 더해지기 때문에 숫자가 전부 스택에서 빠진다면 당연히 minus_cnt = n</u>일 것이다.
 >
->   1. 첫 번째 if문에서는 arr 배열의 가장 첫 번째 부분부터 탐색한다. 만약에 스택의 top 부분과 수열의 첫 번째 수가 다르다면 현재의 num_seq 값을 스택에 push 한다. 그리고 str 배열에 +를 대입한 후 plus_cnt값을 하나 늘려준다. 다음 숫자를 탐색하기 위해 num_seq도 하나 늘린다.
+>   1. 첫 번째 if문에서는 arr 배열의 가장 첫 번째 부분부터 탐색한다. 만약에 <u>스택의 top 부분과 수열의 첫 번째 수가 다르다면 현재의 num_seq 값을 스택에 push</u> 한다. 그리고 str 배열에 +를 대입한 후 plus_cnt값을 하나 늘려준다. 다음 숫자를 탐색하기 위해 num_seq도 하나 늘린다.
+>   2. else if문에서는 <u>arr 배열의 해당 인덱스의 값이 스택의 top과 같다면 해당 값을 pop</u> 해준 뒤 +와 마찬가지로 -도 배열에 넣은 뒤 카운트를 하나 늘린다. 이 때는 만들 수열의 값이 탐색이 완료되었으므로 arr 배열의 인덱스를 하나 늘린다.
+>   3. 마지막 if문은 수열을 만들 수 없을 경우를 찾는다. <u>만약에 수가 8개라면 push도 8번, pop도 8번 수행하기 때문에 plus와 minus 카운트 값 모두가 8</u>이다. 그러나 수열을 만들 수 없을 경우 plus 카운트 값이 n보다 커질 수 밖에 없기 때문에 이 경우에는 NO를 출력한 뒤 프로그램을 종료한다.
 >
->   2. else if문에서는 arr 배열의 해당 인덱스의 값이 스택의 top과 같다면 해당 값을 pop 해준 뒤 +와 마찬가지로 -도 배열에 넣은 뒤 카운트를 하나 늘린다. 이 때는 만들 수열의 값이 탐색이 완료되었으므로 arr 배열의 인덱스를 하나 늘린다.
->   3. 마지막 if문은 수열을 만들 수 없을 경우를 찾는다. 만약에 수가 8개라면 push도 8번, pop도 8번 수행하기 때문에 plus와 minus 카운트 값 모두가 8이다. 그러나 수열을 만들 수 없을 경우 plus 카운트 값이 n보다 커질 수 밖에 없기 때문에 이 경우에는 NO를 출력한 뒤 프로그램을 종료한다.
+> - 위의 설명을 예시를 통해서 보자.
 >
-> - 
+>   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp1.png?token=AWMB64XPYPQBITLDNBFDPFDBTNKTM)
+>
+>   이 과정은 현재까지 **push를 4번** 했을 때의 상황이다. 다른 변수들은 인덱스이므로 0부터 시작하지만 Num_seq는 1부터 시작하기 때문에 현재 5이다. 여기서 다음 번 반복은 <u>arr과 stack에서의 가르키는 값이 동일하기 때문에 else if문이 시행</u>된다.
+>
+>   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp2.png?token=AWMB64RPUSNP5RZZMHFPJULBTNKZ6)
+>
+>   **else if문**이 시행되게 되면 **4는 pop**이 되고 <u>arr 배열의 인덱스는 하나 증가</u>하게 된다.
+>
+>   다음 과정에서도 **3은 pop**이 되고 idx_arr은 하나 증가한다.
+>
+>   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp3.png?token=AWMB64RLHQFLF3H6CSZ4ZQTBTNLFY)
+>
+>   다음 과정에서는 값이 다르므로 다시 **5를 push**한다. 이와 같은 방법으로 계속 반복한다.
+>
+> - 마지막으로 +와 -가 있는 배열을 출력한다.
