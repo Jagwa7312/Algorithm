@@ -56,13 +56,13 @@
 >
 >   이 과정은 현재까지 **push를 4번** 했을 때의 상황이다. 다른 변수들은 인덱스이므로 0부터 시작하지만 Num_seq는 1부터 시작하기 때문에 현재 5이다. 여기서 다음 번 반복은 <u>arr과 stack에서의 가르키는 값이 동일하기 때문에 else if문이 시행</u>된다.
 >
->   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp2.png?token=AWMB64RPUSNP5RZZMHFPJULBTNKZ6)
+>   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp2.png?token=AWMB64V77ABCVP3HESWNHDLBTNMJY)
 >
 >   **else if문**이 시행되게 되면 **4는 pop**이 되고 <u>arr 배열의 인덱스는 하나 증가</u>하게 된다.
 >
 >   다음 과정에서도 **3은 pop**이 되고 idx_arr은 하나 증가한다.
 >
->   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp3.png?token=AWMB64RLHQFLF3H6CSZ4ZQTBTNLFY)
+>   ![](https://raw.githubusercontent.com/Jagwa7312/Images/main/1874_exp3.png?token=AWMB64QDHNKVRSM6WBJ7S2TBTNMKW)
 >
 >   다음 과정에서는 값이 다르므로 다시 **5를 push**한다. 이와 같은 방법으로 계속 반복한다.
 >
