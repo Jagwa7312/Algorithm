@@ -29,7 +29,7 @@
 | **35** | <img src="https://static.solved.ac/tier_small/7.svg" width=15px> | [카드2(2164)](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/2164_%EC%B9%B4%EB%93%9C2) | **36** | <img src="https://static.solved.ac/tier_small/7.svg" width=15px> | [큐 2(18258)](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/18258_%ED%81%90%202) |
 | **37** | <img src="https://static.solved.ac/tier_small/8.svg" width=15px> | [스택 수열(1874)](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Silver/1874_%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4) | **38** |                                                              |                                                              |
 
-| 번호  | 레벨                                                         | 문제 이름(번호)                                              | 번호 | 레벨 | 문제 이름(번호) |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | --------------- |
-| **1** | <img src="https://static.solved.ac/tier_small/11.svg" width=15px> | [소수 & 팰린드롬(1741)](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Gold/1741_%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC) |      |      |                 |
+| 번호  | 레벨                                                         | 문제 이름(번호)                                              | 번호  | 레벨 | 문제 이름(번호) |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | --------------- |
+| **1** | <img src="https://static.solved.ac/tier_small/11.svg" width=15px> | [소수 & 팰린드롬(1741)](https://github.com/Jagwa7312/Algorithm-Study/tree/main/BAEKJOON/Gold/1741_%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC) | **2** |      |                 |
 
